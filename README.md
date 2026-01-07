@@ -61,9 +61,7 @@
 ### 📊 Professional Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=nwrslept&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=nwrslept&layout=compact&theme=dark" alt="Top Langs" />
+  <img src="https://metrics.lecoq.io/nwrslept?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.sections=most-used&languages.details=percentage&theme=dark" alt="Metrics" />
 </div>
 
 <br />
