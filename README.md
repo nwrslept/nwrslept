@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm <a href="#" target="_blank">Bohdan Senkiv (nwrslept)</a> 👨‍💻</h1>
+  <h1>Hi there, I'm <a href="https://github.com/nwrslept" target="_blank">Bohdan Senkiv (nwrslept)</a> 👨‍💻</h1>
   <h3>Middle-Focused Backend Developer | System Architect</h3>
 
   <p>
@@ -10,7 +10,7 @@
   <a href="https://t.me/nwrslept">
     <img src="https://img.shields.io/badge/Telegram-Contact_Me-blue?style=for-the-badge&logo=telegram" alt="Telegram" />
   </a>
-  <a href="senkivb44@gmail.com">
+  <a href="mailto:senkivb44@gmail.com">
     <img src="https://img.shields.io/badge/Email-Send_Email-D14836?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
 </div>
@@ -23,16 +23,13 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  
   <img src="https://img.shields.io/badge/Django_5-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Django_Rest_Framework-A30000?style=for-the-badge&logo=django&logoColor=white" />
-
   <img src="https://img.shields.io/badge/PostgreSQL_15-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker_&_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white" />
-  
   <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
   <img src="https://img.shields.io/badge/Poetry-60A5FA?style=for-the-badge&logo=poetry&logoColor=white" />
 </div>
@@ -43,17 +40,15 @@
 
 ### 🚀 Key Projects
 
-#### 🏭 [SmartWarehouse API]([LINK](https://github.com/nwrslept/SmartWarehouse.git))
+#### 🏭 [SmartWarehouse API](https://github.com/nwrslept/SmartWarehouse)
 > **Advanced Inventory & Logistics Management System**
-
-
 
 * **Architecture & Design:** Implemented a **Service Layer** to maintain clean separation between HTTP handling and complex business logic.
 * **Challenge:** Solved the **"Double Spend" problem** in inventory management. Multiple concurrent requests for the same SKU are handled using `select_for_update` row-level locking.
 * **Infrastructure:** Full Dockerization with PostgreSQL and Gunicorn. Includes automated DB seeding and comprehensive stress tests for concurrency.
 * **Tech:** Python 3.11, Django 5, DRF, PostgreSQL, Docker, Pytest.
 
-#### ⚡ [EventFlow]([LINK](https://github.com/nwrslept/EventFlow.git))
+#### ⚡ [EventFlow](https://github.com/nwrslept/EventFlow)
 > **Asynchronous Event Tracking & Management System**
 
 * **Performance:** Built on **FastAPI** to leverage asynchronous I/O for high-throughput registration flows.
@@ -67,7 +62,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nwrslept&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nwrslept&layout=compact&theme=dark&hide_border=true" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nwrslept&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
 </div>
 
 <br />
