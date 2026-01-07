@@ -58,10 +58,16 @@
 
 ---
 
-### 📊 Professional Metrics
+### 📊 Professional Metrics & Activity
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/nwrslept?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.sections=most-used&languages.details=percentage&theme=dark" alt="Metrics" />
+  <img src="https://img.shields.io/badge/Main_Language-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Experience_Level-Middle_Focused-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Frameworks-Django_|_FastAPI-009688?style=flat-square" />
+  
+  <br /><br />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nwrslept&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br />
