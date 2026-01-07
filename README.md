@@ -61,9 +61,9 @@
 ### 📊 Professional Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nwrslept&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=nwrslept&show_icons=true&theme=dark" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nwrslept&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=nwrslept&layout=compact&theme=dark" alt="Top Langs" />
 </div>
 
 <br />
