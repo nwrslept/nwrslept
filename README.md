@@ -67,8 +67,8 @@
   
   <br /><br />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nwrslept&theme=dark&hide_border=true" alt="GitHub Streak" />
-</div>
+### 📈 GitHub Activity Graph:
+![Anurag's GitHub activity graph](https://activity-graph.herokuapp.com/graph?user
 
 <br />
 
