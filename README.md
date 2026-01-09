@@ -58,14 +58,12 @@
 
 ---
 
-
 ### 📊 Professional Metrics & Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?nwrslept=nwrslept&theme=solarized_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?nwrslept=nwrslept&theme=solarized_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nwrslept&theme=solarized_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nwrslept&theme=solarized_dark" />
 </p>
-
 
 ---
 
