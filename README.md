@@ -60,12 +60,7 @@
 
 ### 📊 Professional Metrics & Activity
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Main_Language-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Experience_Level-Middle_Focused-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/Frameworks-Django_|_FastAPI-009688?style=flat-square" />
-  
-  <br /><br />
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniilshat&theme=solarized_dark)
   
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilshat&theme=solarized_dark)
 
