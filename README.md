@@ -58,13 +58,14 @@
 
 ---
 
+
 ### 📊 Professional Metrics & Activity
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniilshat&theme=solarized_dark)
-  
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilshat&theme=solarized_dark)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nwrslept&theme=solarized_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nwrslept&theme=solarized_dark" />
+</p>
 
-<br />
 
 ---
 
