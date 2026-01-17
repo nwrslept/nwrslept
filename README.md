@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm <a href="https://github.com/nwrslept" target="_blank">Bohdan Senkiv (nwrslept)</a> 👨‍💻</h1>
-  <h3>Middle-Focused Backend Developer | System Architect</h3>
+  <h3>Junior Backend Developer | System Architect</h3>
 
   <p>
     I build <b>resilient</b> and <b>scalable</b> server-side applications with a focus on data integrity, 
